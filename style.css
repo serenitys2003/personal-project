@@ -1,23 +1,22 @@
-/* CSS files add styling rules to your content */
+/*CSS files add styling rules to your content */
 
-body {
+/*  body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
 }
-
+ */
 h1 {
   font-style: italic;
   color: #373fff;
 }
 
-*{ color: white
-}
+
 
 body{ 
   background-color:blue;
   font: italic 18px sans-serif; 
-  
-}
+  color: white;
+} 
 
 .steward {
   color:black;
