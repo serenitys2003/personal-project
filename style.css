@@ -33,6 +33,15 @@ body{
 }
 
 .cats{
-  color:;
+  color:black;
+}
+
+.frogs{ 
+ color:blue;
+background-color:black;
+}
+
+.happy{
+  color:black;
   background-color:green;
 }
