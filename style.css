@@ -19,14 +19,14 @@ body{
 } 
 
 .steward {
-  color:black;
-  display: inline-block;
+  color: black;
+  border: dashed 12px black;
+
 }
 
 .panda {
   color:blue;
   background-color:black;
-  display: inline 
 }
 
 .puppys {
@@ -50,3 +50,5 @@ background-color:black;
   color:black;
   background-color:green;
 }
+
+
