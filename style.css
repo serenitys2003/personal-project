@@ -20,7 +20,7 @@ body{
 
 .steward {
   color: black;
-  border: dashed 12px black;
+  border: dashed 12px green;
 
 }
 
@@ -35,15 +35,17 @@ body{
 }
 
 .cats{
-  color:black;
+  color:green;
   width: 100%;
-  background-color:grey;
+  background-color:black;
 
 }
 
 .frogs{ 
  color:blue;
 background-color:black;
+border: dashed 12px green;
+
 }
 
 .happy{
