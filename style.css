@@ -1,10 +1,6 @@
 /*CSS files add styling rules to your content */
+ 
 
-/*  body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
-}
- */
 h1 {
   font-style: italic;
   color: #373fff;
@@ -16,12 +12,13 @@ body{
   background-color:blue;
   font: italic 18px sans-serif; 
   color: white;
+  text-align: center;
 } 
 
 .steward {
   color: black;
   border: dashed 12px green;
-  padding: 30px;
+  padding: 100px 200px 100px 200px;
   margin: 30px 30px 30px 30px
 /* display:inline;
   text-align: right;
@@ -34,12 +31,20 @@ body{
 /*   text-align:center; */
 }
 
-
+/*img {
+  float:left;
+}*/
+.hip{
+  float:left;
+}
 .panda {
   margin 30px;
   color:blue;
   background-color:black;
+  padding: 30px;
+  margin: 30px 30px 30px 30px;
 }
+
 
 .puppys {
   color:black;
