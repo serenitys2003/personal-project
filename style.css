@@ -21,7 +21,8 @@ body{
 .steward {
   color: black;
   border: dashed 12px green;
-
+display:inline-block;
+  text-align: left;
 }
 
 .panda {
