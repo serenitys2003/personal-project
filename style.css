@@ -17,7 +17,7 @@ body{
 
 .steward {
   color: black;
-  border: dashed 12px green;
+  border: dashed 6px green;
   padding: 80px 50px 80px 50px;
   margin: 30px 30px 30px 30px
 /* display:inline;
@@ -48,11 +48,12 @@ body{
 
 .puppys {
   color:black;
-  background-color:green;
+  background-color:blue;
+  border: dashed 6px green 
 }
 
 .cats{
-  color:green;
+  color:blue;
   width: 100%;
   background-color:black;
 
@@ -61,13 +62,16 @@ body{
 .frogs{ 
  color:blue;
 background-color:black;
-border: dashed 12px green;
 
 }
 
 .happy{
   color:black;
-  background-color:green;
+  background-color:blue;
+  border: dashed 6px green 
 }
 
+h2{
+  font-size:50px;
+}
 
