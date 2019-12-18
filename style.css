@@ -80,5 +80,10 @@ h2{
 }
 
 table{
-  border
+  border: 6px dashed green;
+  border-bottom: none;
+}
+
+div{
+  width: 100px 50px 100px 50px
 }
