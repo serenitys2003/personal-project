@@ -13,6 +13,7 @@ body{
   font: italic 18px sans-serif; 
   color: white;
   text-align: center;
+  margin: 20px;
 } 
 
 .steward {
@@ -79,15 +80,6 @@ h2{
   font-size:50px;
 }
 
-table{
-  border: 6px dashed green;
-  border-bottom: none;
-}
-
 div{
-  width: 100px 50px 100px 50px
-}
-
-.contentSection1{
-  border: 10px, dashed
+  width:100px 50px 100px 50px;
 }
