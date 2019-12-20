@@ -12,7 +12,7 @@ body{
   background-color:blue;
   font: italic 18px sans-serif; 
   color: white;
-  text-align: center;
+text-align: center;
   margin: 20px;
 } 
 
@@ -71,6 +71,7 @@ background-color:black;
 
 .bf{
   font-size:30px;
+  float:right;
 }
 
 h2{
@@ -80,3 +81,4 @@ h2{
 div{
   width:100px 50px 100px 50px;
 }
+
