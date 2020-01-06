@@ -3,7 +3,7 @@
 
 h1 {
   font-style: italic;
-  color: #373fff;
+  color: green;
 }
 
 
@@ -71,7 +71,7 @@ background-color:black;
 
 .bf{
   font-size:30px;
- /* float:right;*/
+ float:right;
 text-align:right;
 }
 
